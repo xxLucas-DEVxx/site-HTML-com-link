@@ -1,5 +1,5 @@
 # site-HTML-com-link
-site promocional que linda para outra pagina e cardápio 
+site promocional que linca para outra página e cardápio 
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
